@@ -7,8 +7,8 @@ def game_hash
       players: [
         {
           player_name: "Alan Anderson",
-          number: "0",
-          shoe: "16",
+          number: 0,
+          shoe: 16,
           points: 22,
           rebounds: 12,
           assists: 12,
@@ -18,8 +18,8 @@ def game_hash
         },
         {
           player_name: "Reggie Evans",
-          number: "30",
-          shoe: "14",
+          number: 30,
+          shoe: 14,
           points: 22,
           rebounds: 12,
           assists: 12,
@@ -29,8 +29,8 @@ def game_hash
         },
         {
           player_name: "Brook Lopez",
-          number: "11",
-          shoe: "17",
+          number: 11,
+          shoe: 17,
           points: 17,
           rebounds: 19,
           assists: 10,
@@ -40,8 +40,8 @@ def game_hash
         },
         {
           player_name: "Mason Plumlee",
-          number: "1",
-          shoe: "19",
+          number: 1,
+          shoe: 19,
           points: 26,
           rebounds: 11,
           assists: 6,
@@ -51,8 +51,8 @@ def game_hash
         },
         {
           player_name: "Jason Terry",
-          number: "31",
-          shoe: "15",
+          number: 31,
+          shoe: 15,
           points: 19,
           rebounds: 2,
           assists: 2,
